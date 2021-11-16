@@ -14,14 +14,17 @@ The complicated tracks above are from a transient clump generated from the chang
     <source src="rw_unstable_p2.mp4" media="only screen and (max-device-width: 568px)"></source> 
 </video>
 
-Here is the animated version of Figure 6, showing that this unstable background flow is unstable.  We manually insert perturbations at the base of flow every 5.2 years to isolate the dynamics accompanying the formation of a single clump. As seen here, there are significant ionization changes from compression effects but overall the dynamics is intuitive: the clump simply comoves with the background wind solution.
+Here is the animated version of Figure 6, showing what happens when we perturb this unstable background flow.  We manually insert perturbations at the base of flow every 5.2 years to isolate the dynamics accompanying the formation of a single clump. As seen here, there are significant ionization changes from compression effects but overall the dynamics is intuitive: the clump simply comoves with the background wind solution.
 <video poster="fig6rw.png" width="675" height="1408" controls preload> 
     <source src="rwmovie.mp4" media="only screen and (min-device-width: 568px)"></source> 
     <source src="rwmovie.mp4" media="only screen and (max-device-width: 568px)"></source> 
 </video>
 
 ### VW runs
-
+<video poster="fig6vw.png" width="675" height="1408" controls preload> 
+    <source src="vwmovie.mp4" media="only screen and (min-device-width: 568px)"></source> 
+    <source src="vwmovie.mp4" media="only screen and (max-device-width: 568px)"></source> 
+</video>
 
 ### Acknowledgements
 These simulations were run on the Pleiades supercomputer at NASA's Advanced Supercomputing facility under the HEC Program allocation SMD-20-10568625.  We thank the [Athena++](https://github.com/PrincetonUniversity/athena-public-version/graphs/contributors) development team for maintaining this code. 

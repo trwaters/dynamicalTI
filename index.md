@@ -3,7 +3,7 @@ The animations below are of time-dependent solutions to the equations of non-adi
 
 ### RW runs
 Here is a movie of the initial evolution starting from constant pressure initial conditions.  This shows the 'construction' of the full thermal wind solution consistent with the imposed boundary conditions.  The final state -- a disk atmosphere and a tenuous disk wind -- is insensitive to the initial conditions.  In all of the runs below, time is shown in units of the Keplerian orbital period at 1 R_IC.  The red contour marks where the Bernoulli function vanishes, indicative of a transition from bound to unbound flow.  
-<video poster="fig6vw.png" width="675" height="1408" controls preload> 
+<video poster="fig6rw.png" width="675" height="1408" controls preload> 
     <source src="rwmovie.mp4" media="only screen and (min-device-width: 568px)"></source> 
     <source src="rwmovie.mp4" media="only screen and (max-device-width: 568px)"></source> 
 </video>

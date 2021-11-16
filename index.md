@@ -3,13 +3,13 @@ The animations below are of time-dependent solutions to the equations of non-adi
 
 ### RW runs
 Here is an animated version of Figure 3 in the paper, showing how the outflow climbs the S-curve starting from a stable location on the cold branch.  This illustrates one of the key ideas of the paper --- that a simple rise in the flux is sufficient to make a UFO unstable.  Here, time is shown in years.  For more information, see Section 3.2 of the paper.  
-<video poster="fig3.png" width="675" height="1408" controls preload> 
+<video poster="fig3.png" width="675" height="270" controls preload> 
     <source src="rw_unstable.mp4" media="only screen and (min-device-width: 568px)"></source> 
     <source src="rw_unstable.mp4" media="only screen and (max-device-width: 568px)"></source> 
 </video>
 
 The complicated tracks above are from a transient clump generated from the change in flux. This clump leaves the domain at t = 28 years, at which point the background flow reaches an unstable steady state.
-<video poster="fig3.png" width="675" height="1408" controls preload> 
+<video poster="fig3.png" width="675" height="270 controls preload> 
     <source src="rw_unstable_p2.mp4" media="only screen and (min-device-width: 568px)"></source> 
     <source src="rw_unstable_p2.mp4" media="only screen and (max-device-width: 568px)"></source> 
 </video>

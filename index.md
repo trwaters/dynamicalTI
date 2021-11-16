@@ -9,7 +9,7 @@ Here is an animated version of Figure 3 in the paper, showing how the outflow cl
 </video>
 
 The complicated tracks above are from a transient clump generated from the change in flux. This clump leaves the domain at t = 28 years, at which point the background flow reaches an unstable steady state.
-<video poster="fig3.png" width="675" height="270 controls preload> 
+<video poster="fig3.png" width="675" height="270" controls preload> 
     <source src="rw_unstable_p2.mp4" media="only screen and (min-device-width: 568px)"></source> 
     <source src="rw_unstable_p2.mp4" media="only screen and (max-device-width: 568px)"></source> 
 </video>

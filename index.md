@@ -8,7 +8,13 @@ Here is an animated version of Figure 3 in the paper, showing how the outflow cl
     <source src="rw_unstable.mp4" media="only screen and (max-device-width: 568px)"></source> 
 </video>
 
-Here is the animated version of Figure 6, showing how the clumps form within and then comove with the background wind solution.
+The complicated tracks above are from a transient clump generated from the change in flux. This clump leaves the domain at t = 28 years, at which point the background flow reaches an unstable steady state.
+<video poster="fig3.png" width="675" height="1408" controls preload> 
+    <source src="rw_unstable_p2.mp4" media="only screen and (min-device-width: 568px)"></source> 
+    <source src="rw_unstable_p2.mp4" media="only screen and (max-device-width: 568px)"></source> 
+</video>
+
+Here is the animated version of Figure 6, showing that this unstable background flow is unstable.  We manually insert perturbations at the base of flow every 5.2 years to isolate the dynamics accompanying the formation of a single clump. As seen here, there are significant ionization changes from compression effects but overall the dynamics is intuitive: the clump simply comoves with the background wind solution.
 <video poster="fig6rw.png" width="675" height="1408" controls preload> 
     <source src="rwmovie.mp4" media="only screen and (min-device-width: 568px)"></source> 
     <source src="rwmovie.mp4" media="only screen and (max-device-width: 568px)"></source> 

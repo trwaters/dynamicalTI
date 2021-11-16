@@ -27,7 +27,7 @@ Finally, here is an animated version of Figure 7.  In the above run, a clump for
 </video>
 
 ### VW runs
-Similarly, here are the animated versions of Figures 6 and 7 but for the VW solution.  VW and RW solutions are identical kinematically, having the same speed and density at the base of the flow.  However, due to the different geometries of these flowtubes, their thermodynamic evolution is very different.  Whereas the RW solution is dominated by adiabatic cooling, the VW solution only cools by the advective transport of heat downstream.  
+Similarly, here are the animated versions of Figures 6 and 7 but for the case of purely vertical flow.  VW and RW solutions are identical kinematically, having the same speed and density at the base of the flow.  However, due to the different geometries of these flowtubes, their thermodynamic evolution is very different.  Whereas the RW solution is dominated by adiabatic cooling, the VW solution only cools by the advective transport of heat downstream.  
 <video poster="fig6vw.png" width="675" height="1408" controls preload> 
     <source src="vwmovie.mp4" media="only screen and (min-device-width: 568px)"></source> 
     <source src="vwmovie.mp4" media="only screen and (max-device-width: 568px)"></source> 

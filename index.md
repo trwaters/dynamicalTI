@@ -20,10 +20,21 @@ Here is the animated version of Figure 6, showing what happens when we perturb t
     <source src="rwmovie.mp4" media="only screen and (max-device-width: 568px)"></source> 
 </video>
 
+Finally, here is an animated version of Figure 7.  In the above run, a clump forms at t=8 years.  Here, we show this formation process --- the saturation of dynamical TI --- on either the phase diagram.  For a description of the dynamics, please refer to sections 3.4 and 3.5.  
+<video poster="fig7.png" width="675" height="270" controls preload> 
+    <source src="rw_phase.mp4" media="only screen and (min-device-width: 568px)"></source> 
+    <source src="rw_phase.mp4" media="only screen and (max-device-width: 568px)"></source> 
+</video>
+
 ### VW runs
 <video poster="fig6vw.png" width="675" height="1408" controls preload> 
     <source src="vwmovie.mp4" media="only screen and (min-device-width: 568px)"></source> 
     <source src="vwmovie.mp4" media="only screen and (max-device-width: 568px)"></source> 
+</video>
+
+<video poster="fig7.png" width="675" height="270" controls preload> 
+    <source src="vw_phase.mp4" media="only screen and (min-device-width: 568px)"></source> 
+    <source src="vw_phase.mp4" media="only screen and (max-device-width: 568px)"></source> 
 </video>
 
 ### Acknowledgements
